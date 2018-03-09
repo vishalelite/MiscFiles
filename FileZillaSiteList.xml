@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.25.1" platform="mac">
+	<Servers>
+		<Folder expanded="1">My Sites<Server>
+				<Host>elitesvn.cloudapp.net</Host>
+				<Port>21</Port>
+				<Protocol>6</Protocol>
+				<Type>0</Type>
+				<User>vishal</User>
+				<Pass encoding="base64">eGFuZHJvc0AzOTA=</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_ACTIVE</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>EliteSVN</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>EliteSVN</Server>
+			<Server>
+				<Host>eliteweb.cloudapp.net</Host>
+				<Port>21</Port>
+				<Protocol>6</Protocol>
+				<Type>0</Type>
+				<User>vishal</User>
+				<Pass encoding="base64">eGFuZHJvc0AzOTA=</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_ACTIVE</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>EliteWeb Azure</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>EliteWeb Azure</Server>
+			<Server>
+				<Host>elitewebdemo.com</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>amitjind</User>
+				<Pass encoding="base64">RWxpdGVeODg4OA==</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_PASSIVE</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>GoDaddy Domain Hosting</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir>/Users/vishal/EliteHostingOldSites</LocalDir>
+				<RemoteDir>1 0</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>GoDaddy Domain Hosting</Server>
+			<Server>
+				<Host>highfielddistillers.com</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>highfield</User>
+				<Pass encoding="base64">QDMya2JaNnU=</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>HighField Distillers</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>HighField Distillers</Server>
+			<Server>
+				<Host>50.62.160.127</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>ajindal2004</User>
+				<Pass encoding="base64">RWxpdGVAMjAxNw==</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_PASSIVE</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>New Elite Hosting @ 2017 Accendos</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>New Elite Hosting @ 2017 Accendos</Server>
+		</Folder>
+	</Servers>
+</FileZilla3>

@@ -1,0 +1,29 @@
+Forticlient Credentials for VPN
+
+SERVER and PORT  
+108.178.105.34 : 40443
+
+
+Forti client user name--ajindal
+
+Password-- G0ttaB3l1ve+16
+
+RDC SERVER Name : 
+RDC IP-  192.168.40.3
+RDC system user-- dotit\DotitDevelopment
+RDC Password :  XS4TpbgTuWyNFSRK
+
+Magento Server
+Name: Devmegento
+
+IP: 192.168.40.16
+
+UN: root
+
+PW: elite17!!
+
+Dotit Epicor SQL SERVER Credentials.
+
+Server IP : //DotitSQL ( Ping this hostname to get the Ip of the SQL SERVER to Connect to DB server )
+username : DotitReader   
+Password :  mFaS2Nbk-2ZA
